@@ -1,16 +1,14 @@
-# carousel_slider_flutter
+# Carousel Slider In Flutter
 
-A new Flutter application.
+Display multiple images in carousel using carousel dependency
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Import these dependencies in your pubspec:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- carousel_slider: ^2.3.1
+- http: ^0.12.2
 
 For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
+[Carousel documentation](https://pub.dev/packages/carousel_slider/versions/1.3.0), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
